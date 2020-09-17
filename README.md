@@ -26,7 +26,7 @@
 
 ![v2ray](/img/kinto3.jpg)
 
-默认UUID：c95ef1d4-f3ac-4586-96e9-234a37dda068
+默认UUID：c95ef1d4-f3ac-4586-96e9-234a37dda088
 
 ### 修改UUID
 
